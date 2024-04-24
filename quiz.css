@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    background-color: pink;
+}
+.app {
+   background-color: #f8a8bc; 
+   width: 90%;
+   max-width: 600px;
+   margin: 100px auto 0;
+   border-radius: 10px;
+   padding: 30px;
+}
+.app h1 {
+    font-weight: 25px;
+    font-weight: 600;
+    padding-bottom: 30px;
+}
+.app h2 {
+    font-size: 18px;
+    color:rgb(255, 255, 255);
+    font-weight: 600;
+}
+.btn {
+    background: white;
+    color: black;
+    font-weight: 500;
+    width: 100%;
+    border: 0cap1px solid rgb(255, 212, 212);
+    padding: 10px;
+    margin: 10px .0;
+    border-radius: 4px;
+    text-align: left;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: rgb(248, 219, 224);
+    color: pink;
+}
+
+#next-btn{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-weight: 500;
+    
+    
+}
